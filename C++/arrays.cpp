@@ -1,8 +1,8 @@
 #include <iomanip>
 #include <iostream>
 
-int main() {
-
+int main() 
+{
     std::string fruits[3];
     double prices[] = {40.25, 50.50, 30.00};
 
